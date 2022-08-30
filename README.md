@@ -8,3 +8,5 @@ The data collected from OpenStreetMap + NetworkX (OSMnx) was used for machine le
 
 
 *gif*
+![unnamed](https://user-images.githubusercontent.com/53049009/187438802-92b1c16d-0683-496b-81ee-3393a6a20cca.gif)
+
