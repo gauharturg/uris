@@ -14,9 +14,13 @@ The program was tested on the area in Hong Kong called Happy Valley.
 
 The roadmap is saved as a graph where the edges are the streets and the nodes are the intersections. Traffic lights' presence and types of roads (one- or two-way) are the variables in our simulation. The simulation shows the direction of roads and the traffic lights placement for the most efficient route planning. The calculations are made based on Dijkstra algorithm with additional consideration of the building and traffic at different time of the day.
 
-![unnamed](https://user-images.githubusercontent.com/53049009/187439274-ed1820ef-305d-4ff5-9790-e0eb3e1b799f.png)
+<img width="597" alt="Screenshot 2022-09-09 at 12 33 28 AM" src="https://user-images.githubusercontent.com/53049009/189176975-163146b9-024f-49f3-a430-e46504a51b3b.png">
+
+
 *Suggested traffic lights placement*
 
 
 ![unnamed](https://user-images.githubusercontent.com/53049009/187441229-a33d463c-1465-420f-a856-7e8a27475810.gif)
+
+
 *Road simulation with 50 cars*
