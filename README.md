@@ -19,8 +19,12 @@ The roadmap is saved as a graph where the edges are the streets and the nodes ar
 
 *Suggested traffic lights placement*
 
+The traffic light is put to the final roadmap only if the intersection is big enough. The main aim is to decrease the number of lights on the roads in order to increase the efficiency of streets.
+
 
 ![unnamed](https://user-images.githubusercontent.com/53049009/187441229-a33d463c-1465-420f-a856-7e8a27475810.gif)
 
 
 *Road simulation with 50 cars*
+
+The next steps will be to add new algorithms and decrease the environmental damage made by traffic.
